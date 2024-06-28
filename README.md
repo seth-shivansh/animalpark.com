@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Animal Park</title>
    <link rel="stylesheet" href="style.css">
-</head>
-<style>
+    <style>
     * {
     text-transform: capitalize;
 }
@@ -56,6 +55,7 @@ footer {
     font-family:cursive;
 }
 </style>
+</head>
 <body>
     <header>
         <h1>Welcome to the Animal Park</h1>
